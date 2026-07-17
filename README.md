@@ -26,7 +26,6 @@ and product performance insights.
 - 🎯 RFM Segmentation
 - 🔄 Cohort Retention
 - 📦 Product Analytics
-- 🔁 Returns Analysis
 
 ## 🗄️ Database Design
 Raw Excel data normalized into 3NF MySQL schema:
